@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "scripts": {
+    "start": "node tareas.js",
+    "dev": "node --watch tareas.js"
+  }
+
+}
